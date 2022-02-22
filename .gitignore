@@ -28,7 +28,7 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-!**/src/main/resources/gorent-f1192-firebase-adminsdk-f4lwt-d702fda8f6.json
+/src/main/resources/gorent-f1192-firebase-adminsdk-f4lwt-d702fda8f6.json
 
 ### VS Code ###
 .vscode/
